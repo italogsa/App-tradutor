@@ -1,0 +1,5 @@
+# Ignorar configurações do VSCode
+.vscode/
+
+# Ignorar arquivos do macOS
+.DS_Store
