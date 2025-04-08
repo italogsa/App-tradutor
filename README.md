@@ -39,7 +39,7 @@ App-tradutor/
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/App-tradutor.git
+   git clone https://github.com/italogsa/App-tradutor.git
    ```
 
 2. Navegue até o diretório do projeto:
