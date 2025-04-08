@@ -1,9 +1,11 @@
+# 🌍 App Tradutor - Traduza para Idiomas Fictícios!
+
 Este é um aplicativo simples de tradução que utiliza a API [FunTranslations](https://api.funtranslations.com/) para traduzir textos para diferentes idiomas fictícios, como Mandalorian, Klingon e Shakespeare.
 
 ## 🚀 Funcionalidades
 
 - Tradução de textos para idiomas fictícios.
-- Suporte a múltiplos idiomas (Mandalorian, Klingon, Shakespeare, etc.).
+- Suporte a múltiplos idiomas (Mandalorian, Klingon, Shakespeare).
 - Interface simples e intuitiva.
 - Validação de entrada e seleção de idioma.
 
@@ -23,7 +25,7 @@ Para executar o projeto localmente, você precisará de:
 
 ## 📦 Estrutura do Projeto
 
-\`\`\`
+```
 App-tradutor/
 ├── index.html          # Página principal
 ├── assets/
@@ -31,27 +33,27 @@ App-tradutor/
 │   ├── js/             # Arquivos JavaScript
 │       ├── script.js   # Lógica do tradutor
 │   ├── img/            # Imagens
-\`\`\`
+```
 
 ## 🖥️ Como Executar
 
 1. Clone este repositório:
-   \`\`\`bash
+   ```bash
    git clone https://github.com/seu-usuario/App-tradutor.git
-   \`\`\`
+   ```
 
 2. Navegue até o diretório do projeto:
-   \`\`\`bash
+   ```bash
    cd App-tradutor
-   \`\`\`
+   ```
 
-3. Abra o arquivo \`index.html\` no navegador.
+3. Abra o arquivo `index.html` no navegador.
 
 ## 🌐 Como Usar
 
 1. Insira o texto que deseja traduzir no campo de entrada.
 2. Escolha o idioma de tradução no menu suspenso.
-3. Clique no botão \"Translate\".
+3. Clique no botão "Translate".
 4. O texto traduzido será exibido no campo de saída.
 
 ## ⚠️ Limitações
